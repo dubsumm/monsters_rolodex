@@ -9,7 +9,7 @@
   to do a deep dive on the core principles and underlying code mechanics of the React.js framework
   
 ## The Code
- The UseEffecthook was implemented for fetching 'monsters' info on page load from the https://jsonplaceholder.typicode.com/users API and correlating images from https://robohash.org/. I implemented the useState hook to maipulate the VDOM/DOM to allow a searchbox to filter displayed info based on matching names of monsters to the search field input. 
+ The UseEffect hook was implemented for fetching 'monsters' info on page load from the https://jsonplaceholder.typicode.com/users API and correlating images from https://robohash.org/. I implemented the useState hook to maipulate the VDOM/DOM to allow a searchbox to filter displayed info based on matching names of monsters to the search field input. 
   
 ## Example
 
