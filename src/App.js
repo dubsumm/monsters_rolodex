@@ -54,7 +54,7 @@ const App = () => {
       <br />
       <SearchBox
         onChangeHandler={onTitleChange}
-        placeholder='search title'
+        placeholder='Make your own title'
         className='title-search-box'
       />
       <CardList monsters={filteredMonsters} />
